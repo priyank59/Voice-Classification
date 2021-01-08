@@ -1,0 +1,9 @@
+Problem Statement: Motion Studios is the largest radio production house in Europe. Its total revenue is $
+1B+. The company has launched a new reality show "The Star RJ." The show is about finding a new radio jockey
+who will be the star presenter on upcoming shows.
+In the first round, participants have to upload their voice clip online. The clip will be evaluated by experts for
+selection to the next round. There is a separate team in the first round for evaluation of male and female
+voice.
+Response to the show is unprecedented, and company is flooded with voice clips.
+You “as an ML” expert have to classify the voice as either male or female so that the first level of filtration is
+quicker.
